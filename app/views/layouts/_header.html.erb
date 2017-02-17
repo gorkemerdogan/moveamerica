@@ -1,0 +1,52 @@
+<header>
+  <div id="top_line">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 col-sm-6 col-xs-6">
+          <span id="tag_line">"The art of moving since 1998"</span>
+        </div>
+        <div class="col-md-6 col-sm-6 col-xs-6">
+          <ul id="top_links">
+            <li><span id="phone_header">Call us: 0045 043204434</span></li>
+            <li><a href="mailto:info@removals.com">info@removals.com</a></li>
+          </ul>
+        </div>
+      </div><!-- End row -->
+    </div><!-- End container-->
+  </div><!-- End top line-->
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3 col-sm-3 col-xs-3">
+        <div id="logo">
+          <%= image_tag 'logo.png', size: "150x35" %>
+        </div>
+      </div>
+      <nav class="col-md-9 col-sm-9 col-xs-9">
+        <a class="cmn-toggle-switch cmn-toggle-switch__htx open_close" href="javascript:void(0);"><span>Menu mobile</span></a>
+        <div class="main-menu">
+          <div id="header_menu">
+            <%= image_tag 'logo.png', size: "150x35" %>
+          </div>
+          <a href="#" class="open_close" id="close_in"><i class="icon_close"></i></a>
+          <ul>
+            <li><%= link_to "Home", root_path %></li>
+            <li class="submenu">
+              <a href="javascript:void(0);" class="show-submenu">Services <i class="icon-down-open-mini"></i></a>
+              <ul>
+                <li><%= link_to "Domestic Removals", services_domestic_removals_path %></li>
+                <li><%= link_to "International Removals", services_international_removals_path %></li>
+                <li><%= link_to "Packing", services_packing_path %></li>
+                <li><%= link_to "Reassembly", services_reassembly_path %></li>
+                <li><%= link_to "Special Furnitures", services_special_furnitures_path %></li>
+              </ul>
+            </li>
+            <li><%= link_to "Quotation", quotation_path %></li>
+            <li><%= link_to "Tips", tips_path %></li>
+            <li><%= link_to "Contact Us", contact_us_path %></li>
+          </ul>
+        </div><!-- End main-menu -->
+      </nav>
+    </div>
+  </div><!-- container -->
+</header><!-- End Header -->

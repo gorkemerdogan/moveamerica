@@ -1,14 +1,50 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>MoveAmericaWeb</title>
+    <title>Move America</title>
     <%= csrf_meta_tags %>
 
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="removals, moving services, relocation, international removal, domesitc removal, transportation" />
+    <meta name="description" content="REMOVALS - Transportation, Removals and Logistics template.">
+    <meta name="author" content="Ansonika">
+    <title>REMOVALS - Transportation, Removals and Logistics template</title>
+
+    <!-- Favicons-->
+    <!--<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">-->
+    <% image_tag "apple-touch-icon-57x57-precomposed.png", size:"57", type:"image/x-icon", rel:"apple-touch-icon" %>
+    <% image_tag "apple-touch-icon-72x72-precomposed.png", size:"72", type:"image/x-icon", rel:"apple-touch-icon" %>
+    <% image_tag "apple-touch-icon-114x114-precomposed.png", size:"114", type:"image/x-icon", rel:"apple-touch-icon" %>
+    <% image_tag "apple-touch-icon-144x144-precomposed.png", size:"144", type:"image/x-icon", rel:"apple-touch-icon" %>
+
+    <%= stylesheet_link_tag "http://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,500,500italic,700,700italic,900" %>
+    <%= stylesheet_link_tag "http://fonts.googleapis.com/css?family=Gochi+Hand" %>
+
+    <!-- BASE CSS -->
+    <%= stylesheet_link_tag "base" %>
+
+    <!--[if lt IE 9]>
+    <%= javascript_include_tag "html5shiv.min" %>
+    <%= javascript_include_tag "respond.min" %>
+    <![endif]-->
   </head>
 
   <body>
+
+    <div class="layer"></div>
+
+    <%= render 'layouts/header' %>
     <%= yield %>
+    <%= render 'layouts/footer' %>
+
+    <!-- Common scripts -->
+    <%= javascript_include_tag "jquery-1.11.2.min" %>
+    <%= javascript_include_tag "common_scripts_min" %>
+    <%= javascript_include_tag "functions" %>
   </body>
 </html>
