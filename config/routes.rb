@@ -4,14 +4,14 @@ Rails.application.routes.draw do
 
   get 'index' => 'main#index'
 
-  get 'services' => 'main#moving'
-  get 'services/moving' => 'main#moving'
-  get 'services/packing_and_reassembly' => 'main#packing_and_reassembly'
-  get 'services/storage' => 'main#storage'
-  get 'services/special_furnitures' => 'main#special_furnitures'
+  get 'services' => 'services#moving'
+  get 'services/moving' => 'services#moving'
+  get 'services/packing_and_reassembly' => 'services#packing_and_reassembly'
+  get 'services/storage' => 'services#storage'
+  get 'services/special_furnitures' => 'services#special_furnitures'
 
-  get 'quotation' => 'main#quotation'
-  get 'tips' => 'main#tips'
-  get 'contact_us' => 'main#contact_us'
+  get 'quotation' => 'quotation#quotation'
+  get 'tips' => 'tips#tips'
+  get 'contact_us' => 'contact_us#contact_us'
 
 end
