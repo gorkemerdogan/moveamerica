@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-md-8 col-sm-8">
         <div class="main_title">
-          <h1>Contact Us</h1>
+          <h1><i class="icon-videocam"></i>Contact Us</h1>
           <p></p>
         </div>
       </div>
@@ -15,13 +15,11 @@
   <div class="row">
 
     <div class="col-md-9">
-
       <div id="map"></div><!-- end map-->
-
       <hr>
-
       <div id="message-contact"></div>
-      <form id="contactform">
+
+    <form id="contactform">
         <div class="row">
           <div class="col-md-6 col-sm-6">
             <div class="form-group">
@@ -64,7 +62,7 @@
               <label>Are you human? 3 + 1 =</label>
               <input type="text" id="verify_contact" class=" form-control">
             </div>
-            <input type="submit" value="Submit" class="btn_1 green medium add_bottom_30" id="submit-contact"/>
+            <%= submit_tag "Submit", class:"btn_1 green medium add_bottom_30", id:"submit-contact" %>
           </div>
         </div>
       </form>
@@ -74,17 +72,17 @@
       <div class="box_style_2">
         <h5>Address</h5>
         <ul>
-          <li><strong>4 West 31st Street New York</strong><br>10001 United States</li>
-        </ul>
-        <h5>Contacts</h5>
-        <ul>
-          <li><strong>H24 Help center</strong><br><a href="tel://003823932342">0038 23932342</a></li>
-          <li><strong>General info</strong><br><a href="tel://003823932342">0038 23932342</a><br><small>Monday to Friday 9am - 7pm</small></li>
-          <li><strong>General info</strong><br><a href="mailto:info@removals.com">info@removals.com</a></li>
-          <li><strong>Book a removal</strong><p class="nopadding">Id pri consul aeterno petentium. Vivendo abhorreant et vim, et quot persecuti mel.<br><a href="mailto:booking@removals.com">booking@removals.com</a></p></li>
+          <li><%= @address.html_safe %></li>
+          <i class="icon_mail_alt"></i> <%= mail_to @emailAddress, @emailAddress, subject: "About Move America" %> <br>
+          <i class="icon_phone"></i> <a href= "tel:"<% @phoneNumber %>><%= @phoneNumber %></a> <br>
+            <small>Monday to Friday 9am - 7pm</small></li>
         </ul>
       </div>
-      <div class="quote_banner"><%= link_to "Need a quotation?", "quotation#index" %></div>
+      <div class="quote_banner">
+        <%= link_to quotation_path do %>
+            <i class="icon_calulator"></i> Need a Quotation?
+        <%end%>
+      </div>
     </div><!-- End col-md-3 -->
   </div><!-- End row -->
 </div><!-- End container -->

@@ -4,10 +4,10 @@ Rails.application.routes.draw do
 
   get 'index' => 'main#index'
 
-  get 'services/reassembly' => 'main#reassembly'
-  get 'services/packing' => 'main#packing'
-  get 'services/domestic_removals' => 'main#domestic_removals'
-  get 'services/international_removals' => 'main#international_removals'
+  get 'services' => 'main#moving'
+  get 'services/moving' => 'main#moving'
+  get 'services/packing_and_reassembly' => 'main#packing_and_reassembly'
+  get 'services/storage' => 'main#storage'
   get 'services/special_furnitures' => 'main#special_furnitures'
 
   get 'quotation' => 'main#quotation'

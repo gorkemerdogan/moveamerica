@@ -6,7 +6,7 @@
     <div class="row">
       <div class="col-md-8 col-sm-8">
         <div class="main_title">
-          <h1>Ask for a Quotation</h1>
+          <h1><i class="icon-videocam"></i>Ask for a Quotation</h1>
           <p></p>
         </div>
       </div>
@@ -271,20 +271,19 @@
 
     <div class="col-md-3">
       <div class="box_style_2">
-        <h4>Need Help?</h4>
-        <h5><i class="icon_globe"></i> By Phone</h5>
+        <h5>Need Help?</h5>
         <ul>
-          <li><strong>Sales departement</strong><br><a href="tel://0038 23932342">0038 23932342</a> - <a href="tel://0038 23932342">0038 23932342</a><br><small>Monday to Friday 9am - 7pm</small></li>
-          <li><strong>H24 Help center</strong><br><a href="tel://0038 23932342">0038 23932342</a></li>
-          <li><strong>General info</strong><br><a href="tel://0038 23932342">0038 23932342</a><br><small>Monday to Friday 9am - 7pm</small></li>
-        </ul>
-        <h5><i class="icon_mail_alt"></i> By Email</h5>
-        <ul>
-          <li><strong>General info</strong><br><a href="mailto:info@removals.com">info@removals.com</a></li>
-          <li><strong>Book a removal</strong><p class="nopadding">Id pri consul aeterno petentium. Vivendo abhorreant et vim, et quot persecuti mel.<br><a href="mailto:booking@removals.com">booking@removals.com</a></p></li>
+          <li><%= @address.html_safe %></li>
+          <i class="icon_mail_alt"></i> <%= mail_to @emailAddress, @emailAddress, subject: "About Move America" %> <br>
+          <i class="icon_phone"></i> <a href= "tel:"<% @phoneNumber %>><%= @phoneNumber %></a> <br>
+          <small>Monday to Friday 9am - 7pm</small></li>
         </ul>
       </div>
-
+      <div class="quote_banner">
+        <%= link_to contact_us_path do %>
+            <i class="icon_phone"></i> Contact Us
+        <%end%>
+      </div>
     </div><!-- End col-md-3 -->
 
   </div><!-- End row -->

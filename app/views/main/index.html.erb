@@ -6,7 +6,7 @@
       <p class="ls-l" style="top:55%; left:35%; color:#111; font-size:18px; white-space:nowrap;" data-ls="durationin:2000;delayin:1000;easingin:easeOutElastic;" >PREPARING / COLLECTING / MOVING</p>
       <p class="ls-l" style="top:67%; left:35%;" data-ls="durationin:2000;delayin:1300;easingin:easeOutElastic;" ><a href="international_removals.html" class="button_intro">Read more</a></p>
     </div> -->
-    <%= image_tag 'slides/slide_2.jpg', style: 'height:100%;width:100%;', class: "ls-bg" %>
+    <%= image_tag 'home.jpg', style: 'height:100%;width:100%;', class: "ls-bg", data_retina: true %>
   </div>
 </div><!-- End layerslider -->
 
@@ -17,7 +17,7 @@
         <h3>Looking for a quality and affordable removals service? </h3>
       </div>
       <div class="col-md-3">
-        <a href="quotation_wizard.html" class="btn_quote">Get a quote</a>
+        <%= link_to "Get a Quote", quotation_path, class:"btn_quote"%>
       </div>
     </div><!-- End row -->
   </div>
@@ -29,9 +29,9 @@
       <div class="col-md-4 col-sm-4">
         <div class="box_feat">
           <p>
-            <%= image_tag 'reassembly_icon_1.png', size:"110x100" %>
+            <%= image_tag 'reassembly_icon_1.png', size:"110x100", data_retine: true %>
           </p>
-          <h3>Preapring</h3>
+          <h3>Packing</h3>
           <p>
             Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset, doctus volumus explicari qui ex.
           </p>
@@ -40,9 +40,9 @@
       <div class="col-md-4 col-sm-4">
         <div class="box_feat">
           <p>
-            <%= image_tag 'reassembly_icon_2.png', size:"74x100" %>
+            <%= image_tag 'reassembly_icon_2.png', size:"74x100", data_retine: true  %>
           </p>
-          <h3>Collecting</h3>
+          <h3>Storage</h3>
           <p>
             Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset, doctus volumus explicari qui ex.
           </p>
@@ -51,9 +51,9 @@
       <div class="col-md-4 col-sm-4">
         <div class="box_feat">
           <p>
-            <%= image_tag 'reassembly_icon_3.png', size:"171x100" %>
+            <%= image_tag 'reassembly_icon_3.png', size:"171x100", data_retine: true  %>
           </p>
-          <h3>Delivery</h3>
+          <h3>Moving</h3>
           <p>
             Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset, doctus volumus explicari qui ex.
           </p>
@@ -61,34 +61,59 @@
       </div>
     </div><!-- End row -->
 
-    <h2 class="text-center">Moving never can't be more easy!</h2>
-    <p class="lead text-center nopadding">
-      Call Us 004594234244
-    </p>
+    <h2 class="text-center" style="color: #cc0001">
+      Moving never can't be more easy!
+      <br>
+      <a href= "tel:"<% @phoneNumber %>>CALL US! <%= @phoneNumber %></a>
+    </h2>
+    <hr>
   </div>
 </div><!-- End feat home -->
 
-<div class="container margin_60">
+<div class="container">
   <div class="row">
-    <div class="col-md-4 col-sm-4">
-      <a href="domestic_removals.html"><%= image_tag 'domestic_1.jpg', class:"img-responsive border" %></a>
-      <h3>Domestic removals</h3>
+    <div class="col-md-3 col-sm-3">
+      <%= link_to services_moving_path do %>
+        <%= image_tag 'domestic_1.jpg', class:"img-responsive border" %>
+      <% end %>
+      <h3>Moving</h3>
       <p>
-        Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset, doctus volumus explicari qui ex.             	                         <br><a href="domestic_removals.html" class="link_normal">Read more</a>
+        Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset, doctus volumus explicari qui ex.
+        <br>
+        <%= link_to "Read More", services_moving_path %>
       </p>
     </div>
-    <div class="col-md-4 col-sm-4">
-      <a href="reassembly.html"><%= image_tag 'domestic_3.jpg', class:"img-responsive border" %></a>
-      <h3>Reassembly &amp; packing</h3>
+    <div class="col-md-3 col-sm-3">
+      <%= link_to services_packing_and_reassembly_path do %>
+          <%= image_tag 'domestic_3.jpg', class:"img-responsive border" %>
+      <% end %>
+      <h3>Reassembly and packing</h3>
       <p>
-        Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset, doctus volumus explicari qui ex.       	                         <br><a href="reassembly.html" class="link_normal">Read more</a>
+        Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset, doctus volumus explicari qui ex.
+        <br>
+        <%= link_to "Read More", services_packing_and_reassembly_path %>
       </p>
     </div>
-    <div class="col-md-4 col-sm-4">
-      <a href="fleet.html"><%= image_tag 'fleet.jpg', class:"img-responsive border" %></a>
-      <h3>The fleet</h3>
+    <div class="col-md-3 col-sm-3">
+      <%= link_to services_storage_path do %>
+          <%= image_tag 'domestic_2.jpg', class:"img-responsive border" %>
+      <% end %>
+      <h3>Storage</h3>
       <p>
-        Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset, doctus volumus explicari qui ex.		                        <br><a href="fleet.html" class="link_normal">Read more</a>
+        Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset, doctus volumus explicari qui ex.
+        <br>
+        <%= link_to "Read More", services_storage_path %>
+      </p>
+    </div>
+    <div class="col-md-3 col-sm-3">
+      <%= link_to services_special_furnitures_path do %>
+          <%= image_tag 'domestic_2.jpg', class:"img-responsive border" %>
+      <% end %>
+      <h3>Special Furnitures</h3>
+      <p>
+        Lorem ipsum dolor sit amet, vix erat audiam ei. Cum doctus civibus efficiantur in. Nec id tempor imperdiet deterruisset, doctus volumus explicari qui ex.
+        <br>
+        <%= link_to "Read More", services_special_furnitures_path %>
       </p>
     </div>
   </div><!-- End row -->
