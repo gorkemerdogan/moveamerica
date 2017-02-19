@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e56ad55b-ff41-4b18-84c9-c7d11a75e266" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/main/contact_us.html.erb" afterPath="$PROJECT_DIR$/app/views/contact_us/contact_us.html.erb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/main/moving.html.erb" afterPath="$PROJECT_DIR$/app/views/services/moving.html.erb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/main/packing_and_reassembly.html.erb" afterPath="$PROJECT_DIR$/app/views/services/packing_and_reassembly.html.erb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/main/quotation.html.erb" afterPath="$PROJECT_DIR$/app/views/quotation/quotation.html.erb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/main/special_furnitures.html.erb" afterPath="$PROJECT_DIR$/app/views/services/special_furnitures.html.erb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/main/storage.html.erb" afterPath="$PROJECT_DIR$/app/views/services/storage.html.erb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/main/tips.html.erb" afterPath="$PROJECT_DIR$/app/views/tips/tips.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/main_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/main_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/contact_us_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/contact_us_controller.rb" />
     </list>
     <ignored path="move_america_web.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact_us.html.erb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="contact_us.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/contact_us/contact_us.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+            <state relative-caret-position="324">
+              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
               <folding>
                 <element signature="e#1826#1847#0#HTML" expanded="true" />
               </folding>
@@ -78,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact_us_controller.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="contact_us_controller.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/contact_us_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+              <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -101,8 +92,8 @@
       <file leaf-file-name="quotation_controller.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/quotation_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="30">
+              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="4" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -131,8 +122,8 @@
       <file leaf-file-name="main_controller.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/main_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+            <state relative-caret-position="75">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -186,13 +177,13 @@
         <option value="$PROJECT_DIR$/app/views/main/special_furnitures.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/contact_person.rb" />
         <option value="$PROJECT_DIR$/app/views/main/contact_us.html.erb" />
-        <option value="$PROJECT_DIR$/app/controllers/contact_us_controller.rb" />
         <option value="$PROJECT_DIR$/app/controllers/services_controller.rb" />
         <option value="$PROJECT_DIR$/app/controllers/quotation_controller.rb" />
         <option value="$PROJECT_DIR$/app/controllers/tips_controller.rb" />
         <option value="$PROJECT_DIR$/app/controllers/main_controller.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/contact_us/contact_us.html.erb" />
+        <option value="$PROJECT_DIR$/app/controllers/contact_us_controller.rb" />
       </list>
     </option>
   </component>
@@ -644,12 +635,12 @@
       <option name="presentableId" value="Default" />
       <updated>1487323827518</updated>
       <workItem from="1487323829861" duration="18962000" />
-      <workItem from="1487503775823" duration="8353000" />
+      <workItem from="1487503775823" duration="8454000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27315000" />
+    <option name="totallyTimeSpent" value="27416000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="43" width="1260" height="733" extended-state="0" />
@@ -916,7 +907,7 @@
         <state relative-caret-position="196">
           <caret line="66" column="40" selection-start-line="66" selection-start-column="40" selection-end-line="66" selection-end-column="40" />
           <folding>
-            <element signature="e#2913#2935#0#HTML" expanded="true" />
+            <element signature="e#2913#2935#0#HTML" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1017,26 +1008,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/quotation_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/tips_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/main_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -1049,21 +1024,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/contact_us_controller.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/contact_us/contact_us.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <element signature="e#1826#1847#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/main_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/contact_us/contact_us.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/controllers/quotation_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-          <folding>
-            <element signature="e#1826#1847#0#HTML" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="4" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/contact_us_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>
