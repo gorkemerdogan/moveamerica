@@ -24,6 +24,7 @@ Rails.application.config.assets.precompile += %w( layerslider/layerslider.transi
 Rails.application.config.assets.precompile += %w( layerslider/layerslider.kreaturamedia.jquery.js )
 
 # Contact Us
+Rails.application.config.assets.precompile += %w( google-maps.js )
 Rails.application.config.assets.precompile += %w( mapmarker.jquery.js )
 Rails.application.config.assets.precompile += %w( mapmarker_func.jquery.js )
 Rails.application.config.assets.precompile += %w( validate.js )

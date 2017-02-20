@@ -6,7 +6,7 @@
     <div class="row">
       <div class="col-md-8 col-sm-8">
         <div class="main_title">
-          <h1><i class="icon-videocam"></i>Ask for a Quotation</h1>
+          <h1><i class="icon_calulator"></i> Ask for a Quotation</h1>
           <p></p>
         </div>
       </div>
@@ -68,9 +68,8 @@
               <div class="form-group">
                 <label>Country</label>
                 <select class="form-control" name="country_pickup" id="country_pickup">
-                  <option value="" selected>Select your country</option>
+                  <option selected value="United states">United states</option>
                   <option value="Europe">Europe</option>
-                  <option value="United states">United states</option>
                   <option value="Asia">Asia</option>
                 </select>
               </div>
@@ -134,9 +133,8 @@
               <div class="form-group">
                 <label>Country</label>
                 <select class="form-control" name="country_delivery" id="country_delivery">
-                  <option value="" selected>Select your country</option>
+                  <option selected value="United states">United states</option>
                   <option value="Europe">Europe</option>
-                  <option value="United states">United states</option>
                   <option value="Asia">Asia</option>
                 </select>
               </div>
@@ -228,19 +226,6 @@
           <div class="row">
             <div class="col-md-6 col-sm-6">
               <div class="form-group options">
-                <strong>Cleaning</strong>
-                <label class="switch-light switch-ios pull-right">
-                  <input type="checkbox" name="option_3" id="option_3" value="Yes">
-                  <span>
-                                        <span>No</span>
-                                        <span>Yes</span>
-                                        </span>
-                  <a></a>
-                </label>
-              </div>
-            </div>
-            <div class="col-md-6 col-sm-6">
-              <div class="form-group options">
                 <strong>Short term deposit</strong>
                 <label class="switch-light switch-ios pull-right">
                   <input type="checkbox" name="option_4" id="option_4" value="Yes">
@@ -261,7 +246,14 @@
             <label>Write your notes or message</label>
             <textarea name="message_quote" id="message_quote" style="height:100px" class="form-control"></textarea>
           </div>
-          <p><input name="terms" type="checkbox" value="Yes"> <a data-toggle="modal" data-target="#myModal" href="#" >I accept terms and condition </a></p>
+          <div class="row">
+            <div class="col-md-6">
+              <div class="form-group">
+                <label>Are you a robot? 3 + 1 =</label>
+                <input type="text" id="verify_contact" class=" form-control">
+              </div>
+            </div>
+          </div>
         </fieldset><!-- End Step three -->
 
         <input type="submit" class="finish" value="Finish!" />

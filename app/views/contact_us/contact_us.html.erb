@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-md-8 col-sm-8">
         <div class="main_title">
-          <h1><i class="icon-videocam"></i>Contact Us</h1>
+          <h1><i class="icon_phone"></i> Contact Us</h1>
           <p></p>
         </div>
       </div>
@@ -58,7 +58,7 @@
         <div class="row">
           <div class="col-md-6">
             <div class="form-group">
-              <label>Are you human? 3 + 1 =</label>
+              <label>Are you a robot? 3 + 1 =</label>
               <input type="text" id="verify_contact" class=" form-control">
             </div>
             <%= submit_tag "Submit", class:"btn_1 green medium add_bottom_30", id:"submit-contact" %>
@@ -88,7 +88,7 @@
 
 <!-- Specific scripts -->
 <!-- GOOGLE MAP -->
-<%= javascript_include_tag "http://maps.googleapis.com/maps/api/js?sensor=false" %>
+<%= javascript_include_tag "google-maps" %>
 <%= javascript_include_tag "mapmarker.jquery" %>
 <%= javascript_include_tag "mapmarker_func.jquery" %>
 

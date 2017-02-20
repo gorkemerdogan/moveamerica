@@ -10,6 +10,8 @@ Rails.application.routes.draw do
   get 'services/storage' => 'services#storage'
   get 'services/special_furnitures' => 'services#special_furnitures'
 
+  get 'licences_and_insurances' => 'licences_and_insurances#licences_and_insurances'
+
   get 'quotation' => 'quotation#quotation'
   get 'tips' => 'tips#tips'
   get 'contact_us' => 'contact_us#contact_us'

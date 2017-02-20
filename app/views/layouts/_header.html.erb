@@ -19,7 +19,7 @@
       <div class="col-md-3 col-sm-3 col-xs-3">
         <div id="logo">
           <%= link_to root_path do %>
-              <%= image_tag 'logo.png', size: "150x35", data_retina: true %>
+              <%= image_tag 'logo/logo.png', size: "150x35", data_retina: true %>
           <%end%>
         </div>
       </div>
@@ -28,7 +28,7 @@
         <div class="main-menu">
           <div id="header_menu">
             <%= link_to root_path do %>
-                <%= image_tag 'logo.png', size: "150x35", data_retina: true %>
+                <%= image_tag 'logo/logo.png', size: "150x35", data_retina: true %>
             <%end%>
           </div>
           <a href="#" class="open_close" id="close_in"><i class="icon_close"></i></a>
@@ -43,13 +43,7 @@
                 <li><%= link_to "Special Furnitures", services_special_furnitures_path %></li>
               </ul>
             </li>
-            <li class="submenu">
-              <a href="javascript:void(0);" class="show-submenu">Licences & Insurances <i class="icon-down-open-mini"></i></a>
-              <ul>
-                <li><%= link_to "Licences", quotation_path %></li>
-                <li><%= link_to "Insurances", quotation_path %></li>
-              </ul>
-            </li>
+            <li><%= link_to "Licences and Insurances", licences_and_insurances_path %></li>
             <li><%= link_to "Tips", tips_path %></li>
             <li><%= link_to "Quotation", quotation_path %></li>
             <li><%= link_to "Contact Us", contact_us_path %></li>
