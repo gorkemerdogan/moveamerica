@@ -19,6 +19,7 @@ Rails.application.config.assets.precompile += %w( html5shiv.min.js )
 Rails.application.config.assets.precompile += %w( respond.min.js )
 
 # Index
+Rails.application.config.assets.precompile += %w( layerslider/layerslider.css )
 Rails.application.config.assets.precompile += %w( layerslider/greensock.js )
 Rails.application.config.assets.precompile += %w( layerslider/layerslider.transitions.js )
 Rails.application.config.assets.precompile += %w( layerslider/layerslider.kreaturamedia.jquery.js )
