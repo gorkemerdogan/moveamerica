@@ -2,121 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e56ad55b-ff41-4b18-84c9-c7d11a75e266" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/about_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/assembly.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/avatar1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/avatar2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/avatar3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/blog-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/blog-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/blog-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/cleaning_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/cleaning_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/cleaning_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/deposit_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/deposit_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/deposit_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/domestic_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/domestic_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/domestic_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/domestic_4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/domestic_5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/fleet.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/fleet_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/home_bg_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/international_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/international_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/international_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/map-marker2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/packing.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/reassembly_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/reassembly_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/special_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/special_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/special_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/testimonial_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/testimonial_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/van_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/van_1_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/van_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/van_2_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/van_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/van_3_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/van_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/van_4_2x.png" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/apple-touch-icon-114x114-precomposed.png" afterPath="$PROJECT_DIR$/app/assets/images/logo/apple-touch-icon-114x114-precomposed.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/apple-touch-icon-144x144-precomposed.png" afterPath="$PROJECT_DIR$/app/assets/images/logo/apple-touch-icon-144x144-precomposed.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/apple-touch-icon-57x57-precomposed.png" afterPath="$PROJECT_DIR$/app/assets/images/logo/apple-touch-icon-57x57-precomposed.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/apple-touch-icon-72x72-precomposed.png" afterPath="$PROJECT_DIR$/app/assets/images/logo/apple-touch-icon-72x72-precomposed.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/banner_icon.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/banner_icon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/banner_icon_2x.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/banner_icon_2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/bed_room.png" afterPath="$PROJECT_DIR$/app/assets/images/home-illustrations/bed_room.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/bed_room_2x.png" afterPath="$PROJECT_DIR$/app/assets/images/home-illustrations/bed_room_2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/dinning_room.png" afterPath="$PROJECT_DIR$/app/assets/images/home-illustrations/dinning_room.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/dinning_room_2x.png" afterPath="$PROJECT_DIR$/app/assets/images/home-illustrations/dinning_room_2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/favicon.ico" afterPath="$PROJECT_DIR$/app/assets/images/logo/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/garden.png" afterPath="$PROJECT_DIR$/app/assets/images/home-illustrations/garden.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/garden_2x.png" afterPath="$PROJECT_DIR$/app/assets/images/home-illustrations/garden_2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/home.jpg" afterPath="$PROJECT_DIR$/app/assets/images/pages/main/home.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_domestic_1.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_domestic_1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_domestic_1_2x.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_domestic_1_2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_domestic_2.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_domestic_2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_domestic_2_2x.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_domestic_2_2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_domestic_3.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_domestic_3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_domestic_3_2x.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_domestic_3_2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_domestic_4.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_domestic_4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_domestic_4_2x.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_domestic_4_2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_domestic_5.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_domestic_5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_domestic_5_2x.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_domestic_5_2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_domestic_6.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_domestic_6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_domestic_6_2x.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_domestic_6_2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_feat_home_1.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_feat_home_1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_home_1.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_home_1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_home_1__2x.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_home_1__2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_home_2.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_home_2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_home_2_2x.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_home_2_2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_home_3.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_home_3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_home_3_2x.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_home_3_2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_home_4.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_home_4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_home_4_2x.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_home_4_2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_home_5.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_home_5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_home_5_2x.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_home_5_2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_home_6.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_home_6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_home_6_2x.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_home_6_2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_international_1.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_international_1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_international_1_2x.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_international_1_2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_international_2.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_international_2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_international_2_2x.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_international_2_2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_international_3.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_international_3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/icon_international_3_2x.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/icon_international_3_2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/kitchen.png" afterPath="$PROJECT_DIR$/app/assets/images/home-illustrations/kitchen.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/kitchen_2x.png" afterPath="$PROJECT_DIR$/app/assets/images/home-illustrations/kitchen_2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/living_room.png" afterPath="$PROJECT_DIR$/app/assets/images/home-illustrations/living_room.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/living_room_2x.png" afterPath="$PROJECT_DIR$/app/assets/images/home-illustrations/living_room_2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/logo-big.png" afterPath="$PROJECT_DIR$/app/assets/images/logo/logo-big.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/logo-footer.png" afterPath="$PROJECT_DIR$/app/assets/images/logo/logo-footer.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/logo.png" afterPath="$PROJECT_DIR$/app/assets/images/logo/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/logo_2x.png" afterPath="$PROJECT_DIR$/app/assets/images/logo/logo_2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/logo_About.png" afterPath="$PROJECT_DIR$/app/assets/images/logo/logo_About.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/reassembly_icon_1.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/reassembly_icon_1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/reassembly_icon_1_2x.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/reassembly_icon_1_2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/reassembly_icon_2.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/reassembly_icon_2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/reassembly_icon_2_2x.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/reassembly_icon_2_2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/reassembly_icon_3.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/reassembly_icon_3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/reassembly_icon_3_2x.png" afterPath="$PROJECT_DIR$/app/assets/images/icons/reassembly_icon_3_2x.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/controllers/main_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/main/index.html.erb" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/contact_us/contact_us.html.erb" afterPath="$PROJECT_DIR$/app/views/contact_us/contact_us.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/_header.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/main/index.html.erb" afterPath="$PROJECT_DIR$/app/views/main/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/quotation/quotation.html.erb" afterPath="$PROJECT_DIR$/app/views/quotation/quotation.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/services/moving.html.erb" afterPath="$PROJECT_DIR$/app/views/services/moving.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/services/packing_and_reassembly.html.erb" afterPath="$PROJECT_DIR$/app/views/services/packing_and_reassembly.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/services/special_furnitures.html.erb" afterPath="$PROJECT_DIR$/app/views/services/special_furnitures.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/services/storage.html.erb" afterPath="$PROJECT_DIR$/app/views/services/storage.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/tips/tips.html.erb" afterPath="$PROJECT_DIR$/app/views/tips/tips.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/initializers/assets.rb" afterPath="$PROJECT_DIR$/config/initializers/assets.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
     </list>
     <ignored path="move_america_web.iws" />
@@ -143,31 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="packing_and_reassembly.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/services/packing_and_reassembly.html.erb">
+      <file leaf-file-name="application.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="40" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="quotation.html.erb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/views/quotation/quotation.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="254" column="0" selection-start-line="254" selection-start-column="0" selection-end-line="254" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="special_furnitures.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/services/special_furnitures.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+            <state relative-caret-position="720">
+              <caret line="48" column="6" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -176,25 +44,15 @@
       <file leaf-file-name="contact_us.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/contact_us/contact_us.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="65" column="14" selection-start-line="57" selection-start-column="8" selection-end-line="65" selection-end-column="14" />
+            <state relative-caret-position="587">
+              <caret line="69" column="26" selection-start-line="69" selection-start-column="26" selection-end-line="69" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="assets.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/initializers/assets.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="google-maps.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/google-maps.js">
+      <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -203,41 +61,71 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tips.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/tips/tips.html.erb">
+      <file leaf-file-name="_footer.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="46" />
+            <state relative-caret-position="330">
+              <caret line="22" column="28" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="licences_and_insurances.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/licences_and_insurances/licences_and_insurances.erb">
+      <file leaf-file-name="_preloader.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/_preloader.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="47" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="47" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="moving.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/services/moving.html.erb">
+      <file leaf-file-name="routes.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="90" column="28" selection-start-line="90" selection-start-column="28" selection-end-line="90" selection-end-column="28" />
+            <state relative-caret-position="30">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="storage.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/services/storage.html.erb">
+      <file leaf-file-name="google-maps.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/google-maps.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="40" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="40" />
+            <state relative-caret-position="1905">
+              <caret line="127" column="103" selection-start-line="127" selection-start-column="103" selection-end-line="127" selection-end-column="103" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_header.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="39" column="51" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home_controller.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/base.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="31" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -250,6 +138,7 @@
       <list>
         <option value="Ruby Class Template" />
         <option value="Erb File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -259,11 +148,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/app/controllers/index_controller.rb" />
-        <option value="$PROJECT_DIR$/config/application.rb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/bootstrap-datepicker.js" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/base.css" />
         <option value="$PROJECT_DIR$/app/views/header.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/header.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/_preloader.html.erb" />
@@ -271,7 +156,6 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/blog.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/magnific-popup.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/date_picker.css" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/mapmarker_func.jquery.js" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/mapmarker.jquery.js" />
         <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
@@ -294,19 +178,27 @@
         <option value="$PROJECT_DIR$/app/controllers/main_controller.rb" />
         <option value="$PROJECT_DIR$/app/controllers/contact_us_controller.rb" />
         <option value="$PROJECT_DIR$/app/controllers/licences_and_insurances.rb" />
-        <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/licences_and_insurances_controller.rb" />
-        <option value="$PROJECT_DIR$/app/views/main/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/tips/tips.html.erb" />
         <option value="$PROJECT_DIR$/app/views/licences_and_insurances/licences_and_insurances.erb" />
         <option value="$PROJECT_DIR$/app/views/services/packing_and_reassembly.html.erb" />
         <option value="$PROJECT_DIR$/app/views/services/storage.html.erb" />
         <option value="$PROJECT_DIR$/app/views/services/special_furnitures.html.erb" />
         <option value="$PROJECT_DIR$/app/views/services/moving.html.erb" />
-        <option value="$PROJECT_DIR$/config/initializers/assets.rb" />
-        <option value="$PROJECT_DIR$/app/views/contact_us/contact_us.html.erb" />
         <option value="$PROJECT_DIR$/app/views/quotation/quotation.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/layerslider/layerslider.script.js" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/layerslider/greensock.js" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
+        <option value="$PROJECT_DIR$/config/initializers/assets.rb" />
+        <option value="$PROJECT_DIR$/app/views/main/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/contact_us/contact_us.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/google-maps.js" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/base.css" />
+        <option value="$PROJECT_DIR$/app/controllers/home_controller.rb" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
       </list>
     </option>
   </component>
@@ -347,9 +239,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -365,6 +255,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="move_america_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="move_america_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="move_america_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="move_america_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="move_america_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="initializers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -452,28 +374,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="move_america_web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="move_america_web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="licences_and_insurances" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -497,6 +397,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="move_america_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="move_america_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -586,164 +508,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="channels" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application_cable" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="move_america_web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="move_america_web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="move_america_web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="move_america_web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="move_america_web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="move_america_web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="move_america_web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="move_america_web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="move_america_web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="move_america_web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="moving" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="move_america_web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="move_america_web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -754,19 +526,19 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/views/home" />
+      <recent name="$PROJECT_DIR$/app/assets/javascripts" />
+      <recent name="$PROJECT_DIR$/app/assets/stylesheets" />
+      <recent name="$PROJECT_DIR$/app/assets/images/pages/main" />
+      <recent name="$PROJECT_DIR$/app/assets/images/pages/moving" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/views/home" />
+      <recent name="$PROJECT_DIR$/app/assets/stylesheets/layerslider" />
       <recent name="$PROJECT_DIR$/app/views/licences_and_insurances" />
       <recent name="$PROJECT_DIR$/app/assets/images/home-illustrations" />
       <recent name="$PROJECT_DIR$/app/assets/images/pages/main" />
-      <recent name="$PROJECT_DIR$/app/assets/images" />
-      <recent name="$PROJECT_DIR$/app/assets/home-illustrations" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/assets/javascripts" />
-      <recent name="$PROJECT_DIR$/app/assets/images/pages/main" />
-      <recent name="$PROJECT_DIR$/app/assets/images/pages/moving" />
-      <recent name="$PROJECT_DIR$/app/assets/images" />
-      <recent name="$PROJECT_DIR$/app/assets/layerslider" />
     </key>
   </component>
   <component name="RunManager" selected="Rails.Development: move_america_web">
@@ -967,18 +739,19 @@
       <updated>1487323827518</updated>
       <workItem from="1487323829861" duration="18962000" />
       <workItem from="1487503775823" duration="8454000" />
-      <workItem from="1487530793185" duration="5741000" />
+      <workItem from="1487530793185" duration="8082000" />
+      <workItem from="1487630379910" duration="381000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33157000" />
+    <option name="totallyTimeSpent" value="35879000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="43" width="1260" height="733" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29064038" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2955665" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1014,91 +787,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/assets/images/home-illustrations/garden.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/domestic_1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/logo/apple-touch-icon-57x57-precomposed.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/icons/banner_icon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/icons/banner_icon_2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/home-illustrations/bed_room.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/home-illustrations/bed_room_2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/logo/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/shadow-bg.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/pages/special/special-main.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/special-furnitures-main.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/pages/storage/storage-main.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/home-illustrations/dinning_room.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/fleet.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/home-illustrations/kitchen.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/reassembly_1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/reassembly_2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/reassembly_2.jpg" />
     <entry file="file://$PROJECT_DIR$/app/assets/images/tag_bg.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1158,7 +847,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1170,35 +858,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="45" column="83" selection-start-line="45" selection-start-column="83" selection-end-line="45" selection-end-column="83" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/licences_and_insurances.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/licences_and_insurances.rb" />
     <entry file="file://$PROJECT_DIR$/app/controllers/licences_and_insurances_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1206,7 +870,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1226,19 +889,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/main/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/mailer.text.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1247,11 +901,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/pages/main/main.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/pages/main/main.jpg" />
     <entry file="file://$PROJECT_DIR$/app/views/licences_and_insurances/licences_and_insurances.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1272,7 +922,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="40" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1280,7 +929,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="40" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1288,7 +936,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1296,11 +943,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="90" column="28" selection-start-line="90" selection-start-column="28" selection-end-line="90" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/google-maps.js">
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/layerslider/layerslider.script.js" />
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/layerslider/layerslider.transitions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/layerslider/layerslider.kreaturamedia.jquery.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1308,18 +962,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/initializers/assets.rb">
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/layerslider/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/contact_us/contact_us.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/cable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/layerslider/greensock.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="65" column="14" selection-start-line="57" selection-start-column="8" selection-end-line="65" selection-end-column="14" />
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -1328,6 +998,128 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="254" column="0" selection-start-line="254" selection-start-column="0" selection-end-line="254" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/initializers/assets.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/main/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/google-maps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1905">
+          <caret line="127" column="103" selection-start-line="127" selection-start-column="103" selection-end-line="127" selection-end-column="103" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="31" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_preloader.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/contact_us/contact_us.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="69" column="26" selection-start-line="69" selection-start-column="26" selection-end-line="69" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="39" column="51" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/main_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="18" />
           <folding />
         </state>
       </provider>

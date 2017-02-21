@@ -1,4 +1,4 @@
-class MainController < ApplicationController
+class HomeController < ApplicationController
   def index
     @phoneNumber = "+1 561 672 4545"
   end
